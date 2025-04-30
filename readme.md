@@ -5,6 +5,21 @@ Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
 Index-Page
 ![Index Page](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
 
+Index login_choosen
+![Index login_choosen](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
+
+User_login
+![User_login](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
+
+Admin_Login1
+![Admin_Login1](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
+
+User_Signup
+![User_Signup](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
+
+User Forget Password
+![User forget_password](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
