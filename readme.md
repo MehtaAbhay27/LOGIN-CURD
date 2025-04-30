@@ -22,7 +22,14 @@ User Dashboard
 ![User_Dashboard](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/a72ab1f6eb666944963b25a256cffd857c09b70e/images/User_Dashboard.jpg)
 
 Admin Login
+
 ![Admin_Login1](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/860bd822588fadcb82fc6b5bef8b4396775b77af/images/Admin_Login%201.jpg)
+
+Admin Dashboard
+![Admin Dashboard 0](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/860bd822588fadcb82fc6b5bef8b4396775b77af/images/Admin%20%20Dashboard%200.jpg)
+
+Admin/ Manage-Staffs
+![Admin Dashboard 1](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/a9bedfe36c03280e41c970d39e6f25807b7b603c/images/Admin%20Dashboard%201.jpg)
 
 Admin Dashboard
 ![Admin Dashboard 0](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/860bd822588fadcb82fc6b5bef8b4396775b77af/images/Admin%20%20Dashboard%200.jpg)
