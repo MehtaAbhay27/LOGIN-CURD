@@ -1,5 +1,6 @@
 ### Download **LOGIN-CURD** here:-
 Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
+> Admin-Username :- Admin  ||  Admin-Password :- Admin@12
 
 ## Screenshots
 Index Page
