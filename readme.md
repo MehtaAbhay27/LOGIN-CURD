@@ -2,10 +2,12 @@
 Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
 ### Admin Login Details
 > Admin-Username :- Admin
+
 > Admin-Password :- Admin@12
 
 ### Admin Login Details
 > User-Username :- Abhay27
+
 > User-Password :- Abhay@123
 
 ## Desktop Application Interface
