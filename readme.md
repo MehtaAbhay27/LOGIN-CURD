@@ -12,11 +12,8 @@ User_login
 
 ![User_login](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/23fcf8bf7ac9f043266cec97030cde2db7657707/images/User_login.jpg)
 
-User signup Page
-![User_signup]()
-
 User_Signup
-![User_Signup](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
+![User_Signup](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/11daa8c5f0fb224d834dab90dede4b073a8c9fdf/images/User_Signup.jpg)
 
 User Forget Password
 ![User forget_password](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
