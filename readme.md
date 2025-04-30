@@ -2,6 +2,9 @@
 Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
 
 ## Screenshots
+Index-Page
+![Index Page](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
