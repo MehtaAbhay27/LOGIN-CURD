@@ -16,7 +16,7 @@ User_Signup
 ![User_Signup](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/11daa8c5f0fb224d834dab90dede4b073a8c9fdf/images/User_Signup.jpg)
 
 User Forget Password
-![User forget_password](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/cbe416b37accf46348b1e4bd3e2971bdcdb94196/images/Index_page.jpg)
+![User forget_password](https://github.com/MehtaAbhay27/LOGIN-CURD/blob/b1a7c9a20bca6b781e2b93059062c4ba2c9efeae/images/User%20forget_password.jpg)
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
