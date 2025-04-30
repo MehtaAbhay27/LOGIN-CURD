@@ -1,4 +1,4 @@
-### Download **LOGIN-CURD** here:-
+### Download **LOGIN-CURD exe File**:-
 Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
 ### Admin Login Details
 > Admin-Username :- Admin
