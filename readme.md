@@ -10,7 +10,7 @@ then install mysql installer community
 ### Step 2: Import the sql file in localhost
 Download **Sql File**:-
 
-Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
+Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/tree/master/Database-file)
 
 ### Step 3: Run Login-Curd exe file 
 Download **LOGIN-CURD exe File**:-
