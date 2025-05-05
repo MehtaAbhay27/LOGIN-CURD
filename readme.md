@@ -1,5 +1,13 @@
 ### Download **LOGIN-CURD exe File**:-
 Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
+
+## SETUP
+### Application Installation Instructions
+### Step 1: Install SQL file
+Go to the official Microsoft SQL Server download page:
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+Choose the free edition (Developer or Express) and download the installer.
 ### Admin Login Details
 > Admin-Username :- Admin
 
