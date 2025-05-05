@@ -3,14 +3,18 @@
 ### Step 1: Dowload MySQL Community Downloads
 Go to the official Microsoft SQL Server download page:
 Dowload: [Mysql Installer](https://dev.mysql.com/downloads/mysql/)
+
 Choosen the installer according to the your pc Architecture.
 then install mysql installer community
 
 ### Step 2: Import the sql file in localhost
-Download **LOGIN-CURD exe File**:-
+Download **Sql File**:-
+
 Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
+
 ### Step 3: Run Login-Curd exe file 
 Download **LOGIN-CURD exe File**:-
+
 Download: [here](https://github.com/MehtaAbhay27/LOGIN-CURD/releases/tag/v0.1)
 
 
